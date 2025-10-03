@@ -1,7 +1,7 @@
-# CurrencyConverter
+# WeatherFetcher
 
-A simple CLI tool for converting currencies using exchangerate.host API.
+A CLI tool to fetch weather data for a city using the wttr.in public API.
 
 ## How to Run
-1. Compile: `javac CurrencyConverter.java`
-2. Run: `java CurrencyConverter <amount> <from_currency> <to_currency>`
+1. Compile: `javac WeatherFetcher.java`
+2. Run: `java WeatherFetcher <city>`
