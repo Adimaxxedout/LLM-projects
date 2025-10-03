@@ -1,7 +1,7 @@
-# WeatherFetcher
+# SimpleCalculator
 
-A CLI tool to fetch weather data for a city using the wttr.in public API.
+A simple command-line calculator implemented in Java. Supports addition, subtraction, multiplication, and division of two numbers.
 
 ## How to Run
-1. Compile: `javac WeatherFetcher.java`
-2. Run: `java WeatherFetcher <city>`
+1. Compile: `javac SimpleCalculator.java`
+2. Run: `java SimpleCalculator`
