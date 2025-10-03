@@ -1,7 +1,7 @@
-# ImageResizer
+# SudokuSolver
 
-A simple Java CLI tool to batch resize images in a folder. Uses Java's built-in ImageIO.
+A simple Java program that solves Sudoku puzzles using backtracking.
 
 ## How to Run
-1. Compile: `javac ImageResizer.java`
-2. Run: `java ImageResizer <input_folder> <output_folder> <width> <height>`
+1. Compile: `javac SudokuSolver.java`
+2. Run: `java SudokuSolver`
