@@ -1,7 +1,7 @@
-# ChatServer
+# MazeGenerator
 
-A simple multi-client chat server using sockets. Clients can connect and broadcast messages.
+Generates a random maze and solves it using BFS. CLI output only (ASCII art).
 
 ## How to Run
-1. Compile: `javac ChatServer.java`
-2. Run: `java ChatServer`
+1. Compile: `javac MazeGenerator.java`
+2. Run: `java MazeGenerator`
