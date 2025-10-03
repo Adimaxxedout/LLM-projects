@@ -1,7 +1,7 @@
-# SimpleCalculator
+# TodoCLI
 
-A simple command-line calculator implemented in Java. Supports addition, subtraction, multiplication, and division of two numbers.
+A simple command-line todo list manager in Java. Supports adding, listing, and removing tasks.
 
 ## How to Run
-1. Compile: `javac SimpleCalculator.java`
-2. Run: `java SimpleCalculator`
+1. Compile: `javac TodoCLI.java`
+2. Run: `java TodoCLI`
