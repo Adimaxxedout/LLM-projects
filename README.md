@@ -1,7 +1,7 @@
-# MarkdownViewer
+# ImageResizer
 
-A Java CLI tool to render Markdown files as plain text in the command line.
+A simple Java CLI tool to batch resize images in a folder. Uses Java's built-in ImageIO.
 
 ## How to Run
-1. Compile: `javac MarkdownViewer.java`
-2. Run: `java MarkdownViewer <markdown_file>`
+1. Compile: `javac ImageResizer.java`
+2. Run: `java ImageResizer <input_folder> <output_folder> <width> <height>`
